@@ -34,7 +34,8 @@
     "passport-facebook-token": "^3.3.0",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.18.4"
+    "sequelize": "^5.18.4",
+    "sequelize-cli": "^5.5.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -44,7 +45,6 @@
     "mocha": "^6.2.1",
     "mocha-http": "^0.2.5",
     "nodemon": "^1.19.3",
-    "request": "^2.88.0",
-    "sequelize-cli": "^5.5.1"
+    "request": "^2.88.0",   
   }
 }
